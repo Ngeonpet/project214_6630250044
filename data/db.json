@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "เงินเพชร เดชมา",
+      "student_id": "6630250044",
+      "major": "วิทยาการคอมพิวเตอร์",
+      "school": "โรงเรียนมัธยมตากสินระยอง",
+      "image": "https://scontent.futp2-1.fna.fbcdn.net/v/t39.30808-6/483940270_2973273562840665_3249671625787544081_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=iOhkdW35VB8Q7kNvgFVHAAC&_nc_oc=AdnjeKqRtyksW2q93xWY6RioZtSOrGFbix1LS8wgMkgmf6WxoR1bLA-FTo4UE88Xilk&_nc_zt=23&_nc_ht=scontent.futp2-1.fna&_nc_gid=mGpp_HHEJSB3D5pGGQ2Pbw&oh=00_AYEjRYBzAxrBtVrH7ktKD7jJ4NDuplA9AudxM_qxSbEEPg&oe=67F43FAE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "1",
+      "code": "CS101",
+      "name": "การเขียนโปรแกรมเบื้องต้น",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "id": "2",
+      "code": "CS102",
+      "name": "โครงสร้างข้อมูล",
+      "credits": 3,
+      "grade": "B+"
+    }
+  ]
+}
